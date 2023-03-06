@@ -1,0 +1,6 @@
+{
+    "kanalid": 123213432345, // message server id
+    "timeout": 60, // how many seconds to send a message
+    "status": "dm me", 
+    "token": ""
+}
